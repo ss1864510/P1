@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.339">
+    <properties></properties>
+
+
+
+            <testcase
+                name="s2"
+                time="1.054"
+                classname="sim.P1">
+            </testcase>
+            <testcase
+                name="s1"
+                time="3.285"
+                classname="sim.P1">
+            </testcase>
+</testsuite>
